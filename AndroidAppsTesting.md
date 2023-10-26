@@ -1,5 +1,5 @@
 ## [Решение к занятию «Тестирование Android-приложений»](https://docs.google.com/spreadsheets/d/1sAzQZtocS9PhrvenRTRpmxF9aKNBH_yu/edit?usp=share_link&ouid=115945362421109867124&rtpof=true&sd=true)
-
+---
 ## Домашнее задание к занятию «Тестирование Android-приложений»
 
 ## Задание 1
